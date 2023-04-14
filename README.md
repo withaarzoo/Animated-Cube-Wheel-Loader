@@ -15,3 +15,4 @@ To use the project:
 You can customize the project to suit your needs by modifying the CSS code. You can change the color of the loader, adjust the size of the cubes, and modify the animation duration and timing function.
 
 ## Preview
+<img width="958" alt="Screenshot 2023-04-14 161051" src="https://user-images.githubusercontent.com/59678435/232025198-96b99911-c672-4eb3-b933-aaf4d9ecd1c9.png">
